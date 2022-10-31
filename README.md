@@ -1,12 +1,12 @@
-# Shortly
+# Country Search
 
-This is the **Frontend Source Code** for [**Country Finder**](https://country-finder-five.vercel.app/). Website
+This is the **Frontend Source Code** for [**Country Search**](https://country-search.vercel.app/) Website
 
 ---
 
 # Discreption
 
-Country Finder is Website that You can use it to Find and Know a lot of Informations about Countries.
+Country Search is Website that You can use it to Find and Know a lot of Informations about Countries.
 
 ---
 
@@ -45,7 +45,3 @@ Country Finder is Website that You can use it to Find and Know a lot of Informat
 - [**Flowbite React**](https://flowbite-react.com/)
 
 ---
-
-# App's Screenshot
-
-![Country Finder Website Screenshot](https://github.com/ahmedmohmd/country-finder/blob/main/app-screenshot.png?raw=true)
